@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Connect with me:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/jas502n?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjas502n&screen_name=jas502n)
+
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" />][twitter]
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
