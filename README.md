@@ -7,6 +7,8 @@
 
 
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" />][twitter]
+[twitter]: https://twitter.com/jas502n
+
 
 
 ### Languages and Tools:
