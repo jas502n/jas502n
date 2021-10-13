@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-Profile
+### Profile
 
 - 🔭 I’m currently working on China
 - 🌱 I’m currently learning Java/CodeQL
