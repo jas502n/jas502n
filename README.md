@@ -6,7 +6,7 @@
 ### Connect with me:
 
 
-[![Twitter Connect](https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg)](https://twitter.com/jas502n)
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/n3wt0n/n3wt0n/master/assets/twitter.svg" href="https://twitter.com/jas502n"/>]
 
 
 ### Languages and Tools:
